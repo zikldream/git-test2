@@ -13,5 +13,6 @@ public class Git {
         System.out.println("hot-fox ");
         System.out.println("hot-fox update");
         System.out.println("github update");
+        System.out.println("今天星期四！");
     }
 }
